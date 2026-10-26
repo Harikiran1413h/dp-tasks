@@ -1,0 +1,17 @@
+Starting simulation 
+Step 1:	X: 0.1	Y: 0	Theta:0.0081084
+Step 2:	X: 0.199997	Y: 0.000810831	Theta:0.0162168
+Step 3:	X: 0.299984	Y: 0.00243244	Theta:0.0243252
+Step 4:	X: 0.399954	Y: 0.00486472	Theta:0.0324336
+Step 5:	X: 0.499901	Y: 0.00810751	Theta:0.040542
+Step 6:	X: 0.599819	Y: 0.0121606	Theta:0.0486504
+Step 7:	X: 0.699701	Y: 0.0170237	Theta:0.0567588
+Step 8:	X: 0.79954	Y: 0.0226966	Theta:0.0648672
+Step 9:	X: 0.89933	Y: 0.0291787	Theta:0.0729756
+Step 10:	X: 0.999063	Y: 0.0364698	Theta:0.081084
+
+ Final Result of the Simulation 
+Total Time: 1 seconds
+Final X: 0.999063
+Final Y: 0.0364698
+Final Theta: 0.081084
